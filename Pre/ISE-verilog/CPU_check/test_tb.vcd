@@ -1,0 +1,26 @@
+$date
+	Wed Sep 14 15:43:15 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module tb_chardet $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$scope module u_chardet $end
+$var wire 1 ! a $end
+$var wire 1 " b $end
+$var wire 1 # c $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0#
+0"
+0!
+$end

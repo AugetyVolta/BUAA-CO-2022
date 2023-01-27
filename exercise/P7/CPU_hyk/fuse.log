@@ -1,0 +1,70 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/Desktop/CO/exercise/P7/CPU_hyk/mips_txt_isim_beh.exe -prj D:/Desktop/CO/exercise/P7/CPU_hyk/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Reg32.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Preg.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/PC.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Nadd.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Mux.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/HILO.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/GRF.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Ext2.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Ext.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/DE.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/CP0.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Controller.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Conflict.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/CMP.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/BE.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/ALU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/Adder.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/timer.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/CPU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/mips.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P7/CPU_hyk/tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/exercise/P7/CPU_hyk/CPU.v" Line 181: Port aluhlMux is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/exercise/P7/CPU_hyk/CPU.v" Line 222: Port isbeq is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/exercise/P7/CPU_hyk/CPU.v" Line 250: Port isbeq is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/exercise/P7/CPU_hyk/CPU.v" Line 291: Port isbeq is not connected to this instance
+Completed static elaboration
+Compiling module PC
+Compiling module Adder
+Compiling module PCMux1
+Compiling module PCMux2
+Compiling module Reg32
+Compiling module Reg5
+Compiling module Reg1
+Compiling module FDreg
+Compiling module Controller
+Compiling module GRF
+Compiling module Ext
+Compiling module Ext2
+Compiling module Nadd
+Compiling module CMP
+Compiling module DEreg
+Compiling module AluMux
+Compiling module ALU
+Compiling module HILO
+Compiling module EMreg
+Compiling module BE
+Compiling module DE
+Compiling module CP0
+Compiling module MWreg
+Compiling module WdataMux
+Compiling module WregMux
+Compiling module Conflict
+Compiling module CPU
+Compiling module TC
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 15 sub-compilation(s) to finish...
+Compiled 31 Verilog Units
+Built simulation executable D:/Desktop/CO/exercise/P7/CPU_hyk/mips_txt_isim_beh.exe
+Fuse Memory Usage: 33704 KB
+Fuse CPU Usage: 968 ms

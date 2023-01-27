@@ -1,0 +1,134 @@
+ISim log file
+Running: D:\Desktop\CO\exercise\P4\CPU_sb\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Desktop/CO/exercise/P4/CPU_sb/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 56781200
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 56781200
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+ERROR: at 35 ns(10000): Iteration limit 10000 is reached. Possible zero delay oscillation detected where simulation can not advance in time because signals can not resolve to a stable value in File "D:/Desktop/CO/exercise/P4/CPU_sb/mips.v" Line 101. Please correct this code in order to advance past the current simulation time.
+ in File "D:/Desktop/CO/exercise/P4/CPU_sb/mips.v" Line 101 
+ERROR: 
+INFO: Simulator is stopped.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 56781200
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 56781200
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 56781200
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 56781200
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 567812ff
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 9 <= 00000000
+@00003004: $10 <= 0000ffff
+@00003008: $11 <= 56780000
+@0000300c: $11 <= 56781234
+@00003010: *00000000 <= 56781234
+@00003014: *00000000 <= 567812ff
+@00003018: *00000000 <= 5678ffff
+@0000301c: *00000000 <= 56ffffff

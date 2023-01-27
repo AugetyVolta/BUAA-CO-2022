@@ -1,0 +1,3 @@
+verilog work "equation.v"
+verilog work "tb1.v"
+verilog work "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

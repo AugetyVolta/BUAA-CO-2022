@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/Desktop/verilog/Comparator/comparator.xst" -ofn "D:/Desktop/verilog/Comparator/comparator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s50-vqg100-4 comparator.ngc comparator.ngd  
+vhdtdtfi -lib work D:/Desktop/verilog/Comparator/Comparator.v -lang verilog -prj Comparator -o comparator.spl -module comparator -template D:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aspartan3 comparator.spl D:/Desktop/verilog/Comparator/comparator.sym 
+vhdtdtfi -lang verilog -prj Comparator -o D:/Desktop/verilog/Comparator/comparator.tfi -lib work D:/Desktop/verilog/Comparator//Comparator.v -module comparator -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

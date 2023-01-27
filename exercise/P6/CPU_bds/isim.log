@@ -1,0 +1,37 @@
+ISim log file
+Running: D:\Desktop\CO\exercise\P6\CPU_bds\mips_txt_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Desktop/CO/exercise/P6/CPU_bds/mips_txt_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  38@00003000: $ 1 <= 0fea0000
+                  42@00003004: $ 1 <= 0fea4242
+                  46@00003008: $ 4 <= 0fea4242
+                  50@0000300c: $ 1 <= f5330000
+                  54@00003010: $ 1 <= f5332242
+                  58@00003014: $ 5 <= f5332242
+                 110@0000301c: $ 9 <= f5332242
+                 114@00003020: $10 <= 00000000
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  38@00003000: $ 1 <= 0fea0000
+                  42@00003004: $ 1 <= 0fea4242
+                  46@00003008: $ 4 <= 0fea4242
+                  50@0000300c: $ 1 <= 00330000
+                  54@00003010: $ 1 <= 00332242
+                  58@00003014: $ 5 <= 00332242
+                 110@0000301c: $ 9 <= 0022afe4
+                 114@00003020: $10 <= 0000004f

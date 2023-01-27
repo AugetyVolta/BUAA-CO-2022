@@ -1,0 +1,11 @@
+[Inputs]
+clk
+reset
+=a[3:0]=
+=b[3:0]=
+[Outputs]
+res
+[BiDir]
+[ATTRIBUTES]
+VeriModel comparator
+

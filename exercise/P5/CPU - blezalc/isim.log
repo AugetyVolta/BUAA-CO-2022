@@ -1,0 +1,81 @@
+ISim log file
+Running: D:\Desktop\CO\exercise\P5\CPU - blezalc\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Desktop/CO/exercise/P5/CPU - blezalc/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $ 4 <= fd000000
+                  11@00003004: $ 4 <= fd00fe08
+                  15@00003008: $31 <= 00003010
+                  19@00003014: $ 9 <= 00001234
+                  21@00003018: $ 9 <= 00001234
+                  23@0000301c: $ 9 <= 00001234
+                  25@00003020: $ 9 <= 00001234
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $ 4 <= fd000000
+                  11@00003004: $ 4 <= fd00fe08
+                  15@00003008: $31 <= 00003010
+                  19@00003014: $ 9 <= 00001234
+                  21@00003018: $ 9 <= 00001234
+                  23@0000301c: $ 9 <= 00001234
+                  25@00003020: $ 9 <= 00001234
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $ 4 <= 0d000000
+                  11@00003004: $ 4 <= 0d00fe08
+                  19@00003010: $ 5 <= 00000123
+                  21@00003014: $ 9 <= 00001234
+                  23@00003018: $ 9 <= 00001234
+                  25@0000301c: $ 9 <= 00001234
+                  27@00003020: $ 9 <= 00001234
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $ 4 <= fd000000
+                  11@00003004: $ 4 <= fd00fe08
+                  15@00003008: $31 <= 00003010
+                  17@0000300c: $ 5 <= 00000123
+                  19@00003010: $ 9 <= 00001234
+                  21@00003014: $ 9 <= 00001234
+                  23@00003018: $ 9 <= 00001234
+                  25@0000301c: $ 9 <= 00001234
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $ 4 <= 0d000000
+                  11@00003004: $ 4 <= 0d00fe08
+                  17@0000300c: $ 5 <= 00000123
+                  19@00003010: $ 9 <= 00001234
+                  21@00003014: $ 9 <= 00001234
+                  23@00003018: $ 9 <= 00001234
+                  25@0000301c: $ 9 <= 00001234

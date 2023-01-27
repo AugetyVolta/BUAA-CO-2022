@@ -1,0 +1,1 @@
+java -jar D:\Desktop\Mars4_5.jar a db mc CompactDataAtZero dump 0x00000000-0x00000ffc HexText data_codehanler.txt full_1.asm

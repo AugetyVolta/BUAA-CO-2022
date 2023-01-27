@@ -1,0 +1,36 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/Desktop/CO/P4/CPU - CMP/tb_isim_beh.exe -prj D:/Desktop/CO/P4/CPU - CMP/tb_beh.prj work.tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/NPC.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/IFU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/GRF.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/EXT.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/DM.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/CTRL.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/CMP.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/ALU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/mips.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P4/CPU - CMP/tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "D:/Desktop/CO/P4/CPU - CMP/mips.v" Line 58: Size mismatch in connection of port <Branchop>. Formal port size is 3-bit while actual signal size is 1-bit.
+Completed static elaboration
+Compiling module CTRL
+Compiling module NPC
+Compiling module IFU
+Compiling module GRF
+Compiling module CMP
+Compiling module EXT
+Compiling module ALU
+Compiling module DM
+Compiling module mips
+Compiling module tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 Verilog Units
+Built simulation executable D:/Desktop/CO/P4/CPU - CMP/tb_isim_beh.exe
+Fuse Memory Usage: 31888 KB
+Fuse CPU Usage: 468 ms

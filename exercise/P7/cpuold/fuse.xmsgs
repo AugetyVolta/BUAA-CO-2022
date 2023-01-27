@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/Desktop/CO/exercise/P7/cpuold/mips_cpu.v" Line 136: Port <arg fmt="%s" index="1">ALUsrc</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/Desktop/CO/exercise/P7/cpuold/mips_cpu.v" Line 288: Port <arg fmt="%s" index="1">RegDst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/Desktop/CO/exercise/P7/cpuold/mips_cpu.v" Line 414: Port <arg fmt="%s" index="1">RegDst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/Desktop/CO/exercise/P7/cpuold/mips_cpu.v" Line 514: Port <arg fmt="%s" index="1">RegDst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"D:/Desktop/CO/exercise/P7/cpuold/IFU.v" Line 40: Port <arg fmt="%s" index="1">Instr_D</arg> is not connected to this instance
+</msg>
+
+<msg type="fatal" file="Simulator" num="0" delta="unknown" srcfile="../src/Fuse.cpp" srcline="209" srcrcs="1.133" >Failed to compile one of the generated C files.
+Please recompile with -mt off -v 1 switch to identify which design unit failed.</msg>
+
+</messages>
+

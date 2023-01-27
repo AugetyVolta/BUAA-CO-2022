@@ -1,0 +1,32 @@
+ISim log file
+Running: D:\Desktop\CO\exercise\P5\CPU - bgezal\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Desktop/CO/exercise/P5/CPU - bgezal/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $ 5 <= ffff0000
+                  11@00003004: $ 9 <= 00003456
+                  13@00003008: $ 8 <= 00001234
+                  15@0000300c: $31 <= 00003014
+                  19@00003014: $ 9 <= 0000ffff
+                  21@00003018: $ 6 <= 00010000
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $ 5 <= 0fff0000
+                  11@00003004: $ 9 <= 00003456
+                  13@00003008: $ 8 <= 00001234
+                  15@0000300c: $31 <= 00003014
+                  19@00003018: $ 6 <= f0010000

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Desktop/ISE-verilog/example/example.xst" -ofn "D:/Desktop/ISE-verilog/example/example.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xa3s50-vqg100-4 example.ngc example.ngd  

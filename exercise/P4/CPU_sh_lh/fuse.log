@@ -1,0 +1,35 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Desktop/CO/exercise/P4/CPU_sh_lh/tb_isim_beh.exe" -prj "D:/Desktop/CO/exercise/P4/CPU_sh_lh/tb_beh.prj" "work.tb" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/NPC.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/IFU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/GRF.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/EXT.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/DM.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/CTRL.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/CMP.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/ALU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/mips.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/exercise/P4/CPU_sh_lh/tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module CTRL
+Compiling module NPC
+Compiling module IFU
+Compiling module GRF
+Compiling module CMP
+Compiling module EXT
+Compiling module ALU
+Compiling module DM
+Compiling module mips
+Compiling module tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 Verilog Units
+Built simulation executable D:/Desktop/CO/exercise/P4/CPU_sh_lh/tb_isim_beh.exe
+Fuse Memory Usage: 32036 KB
+Fuse CPU Usage: 468 ms

@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Desktop/ISE-verilog/counter1/code.xst" -ofn "D:/Desktop/ISE-verilog/counter1/code.syr" 

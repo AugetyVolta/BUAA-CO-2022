@@ -1,0 +1,11 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o D:/Desktop/ISE-verilog/test/Test_tb_isim_beh.exe -prj D:/Desktop/ISE-verilog/test/Test_tb_beh.prj work.Test_tb work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Desktop/ISE-verilog/test/test.v" into library work
+Analyzing Verilog file "D:/Desktop/ISE-verilog/test/Test_tb.v" into library work
+ERROR:HDLCompiler:718 - "D:/Desktop/ISE-verilog/test/Test_tb.v" Line 34: Port connections cannot be mixed ordered and named
+ERROR:HDLCompiler:69 - "D:/Desktop/ISE-verilog/test/Test_tb.v" Line 47: <op> is not declared.
+ERROR:HDLCompiler:598 - "D:/Desktop/ISE-verilog/test/Test_tb.v" Line 25: Module <Test_tb> ignored due to previous errors.
+Verilog file D:/Desktop/ISE-verilog/test/Test_tb.v ignored due to errors

@@ -1,0 +1,63 @@
+ISim log file
+Running: D:\Desktop\CO\P4\CPU_CMP\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Desktop/CO/P4/CPU_CMP/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $28 <= 00000000
+@00003004: $29 <= 00000000
+@00003008: $ 1 <= 00001010
+@0000300c: $ 2 <= 87230000
+@00003010: $ 3 <= 00007856
+@00003014: $ 4 <= 85ff0000
+@00003018: $ 5 <= 00000001
+@0000301c: $ 6 <= ffff0000
+@00003020: $ 7 <= 0000ffff
+@00003024: $ 1 <= 87231010
+@00003028: $ 9 <= 87238866
+@0000302c: $ 8 <= 00001010
+@00003030: $ 0 <= 00000000
+@0000304c: $ 2 <= 0000000c
+@0000305c: $31 <= 00003060
+@0000306c: $ 1 <= 8723101c
+@00003070: $ 1 <= 87231028
+@00003074: $ 1 <= 87231034
+@00003078: *0000000c <= 00003060
+@0000307c: $ 1 <= 00003060
+@00003060: *0000000c <= 00003060
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $28 <= 00000000
+@00003004: $29 <= 00000000
+@00003008: $ 1 <= 00001010
+@0000300c: $ 2 <= 87230000
+@00003010: $ 3 <= 00007856
+@00003014: $ 4 <= 85ff0000
+@00003018: $ 5 <= 00000001
+@0000301c: $ 6 <= ffff0000
+@00003020: $ 7 <= 0000ffff
+@00003024: $ 1 <= 87231010
+@00003028: $ 9 <= 87238866
+@0000302c: $ 8 <= 00001010
+@00003030: $ 0 <= 00000000
+@0000304c: $ 2 <= 0000000c
+@0000305c: $31 <= 00003060
+@0000306c: $ 1 <= 8723101c
+@00003070: $ 1 <= 87231028
+@00003074: $ 1 <= 87231034
+@00003078: *0000000c <= 00003060
+@0000307c: $ 1 <= 00003060
+@00003060: *0000000c <= 00003060

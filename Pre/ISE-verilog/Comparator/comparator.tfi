@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+comparator instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .a(a), 
+    .b(b), 
+    .res(res)
+    );
+
+

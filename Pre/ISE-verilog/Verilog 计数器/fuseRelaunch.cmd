@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Desktop/ISE-verilog/counter1/code_test_isim_beh.exe" -prj "D:/Desktop/ISE-verilog/counter1/code_test_beh.prj" "work.code_test" "work.glbl" 

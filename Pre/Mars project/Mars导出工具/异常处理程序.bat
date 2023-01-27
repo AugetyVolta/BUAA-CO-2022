@@ -1,0 +1,1 @@
+java -jar D:\Desktop\Mars_Changed.jar a db mc CompactDataAtZero dump 0x00004180-0x00004ffc HexText codehanler.txt mips.asm
