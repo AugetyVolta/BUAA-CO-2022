@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Desktop/Logisim project/P1/BlockChecker/Block_isim_beh.exe" -prj "D:/Desktop/Logisim project/P1/BlockChecker/Block_beh.prj" "work.Block" "work.glbl" 
