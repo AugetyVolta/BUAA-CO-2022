@@ -1,0 +1,66 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/Desktop/class/CPU_changebridge/mips_txt_isim_beh.exe -prj D:/Desktop/class/CPU_changebridge/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/NPC.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/HAZARD_M.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/HAZARD_E.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/MDU.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/IF_ID.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/IFU.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/ID_EX.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/HAZARD.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/GRF.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/EX_DM.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/EXT.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/DM_WB.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/DE.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/CTRL.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/CP0.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/CMP.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/BE.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/ALU.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/P7_standard_timer_2019.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/mips_cpu.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/Bridge.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/mips.v" into library work
+Analyzing Verilog file "D:/Desktop/class/CPU_changebridge/mips_tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/Desktop/class/CPU_changebridge/mips_cpu.v" Line 137: Port ALUsrc is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/class/CPU_changebridge/mips_cpu.v" Line 291: Port RegDst is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/class/CPU_changebridge/mips_cpu.v" Line 417: Port RegDst is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/class/CPU_changebridge/mips_cpu.v" Line 518: Port RegDst is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/class/CPU_changebridge/IFU.v" Line 40: Port Instr_D is not connected to this instance
+Completed static elaboration
+Compiling module NPC
+Compiling module IFU
+Compiling module IF_ID
+Compiling module CTRL
+Compiling module GRF
+Compiling module CMP
+Compiling module EXT
+Compiling module ID_EX
+Compiling module ALU
+Compiling module MDU
+Compiling module EX_DM
+Compiling module BE
+Compiling module DE
+Compiling module CP0
+Compiling module DM_WB
+Compiling module HAZARD_E
+Compiling module HAZARD_M
+Compiling module HAZARD
+Compiling module mips_cpu
+Compiling module TC
+Compiling module Bridge
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 7 sub-compilation(s) to finish...
+Compiled 24 Verilog Units
+Built simulation executable D:/Desktop/class/CPU_changebridge/mips_txt_isim_beh.exe
+Fuse Memory Usage: 38496 KB
+Fuse CPU Usage: 890 ms

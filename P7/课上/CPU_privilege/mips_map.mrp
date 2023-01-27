@@ -1,0 +1,37 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Mapping Report File for Design 'mips'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc6slx100-fgg676-2 -w -logic_opt off -ol
+high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off
+-pr off -lc off -power off -o mips_map.ncd mips.ngd mips.pcf 
+Target Device  : xc6slx100
+Target Package : fgg676
+Target Speed   : -2
+Mapper Version : spartan6 -- $Revision: 1.55 $
+Mapped Date    : Sun Dec 11 22:39:34 2022
+
+Design Summary
+--------------
+Number of errors   :   1
+Number of warnings :   0
+
+Section 1 - Errors
+------------------
+ERROR:Security:12 - No 'xc6slx100' feature version 2013.10 was available (-5),
+ERROR:Map:258 - A problem was encountered attempting to get the license for this
+   architecture. 
+
+Section 2 - Warnings
+--------------------
+WARNING:Security:9b - No 'ISE' feature version 2013.10 was available for part
+'xc6slx100'.
+
+Section 3 - Informational
+-------------------------
+INFO:Security:56 - Part 'xc6slx100' is not a WebPack part.
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+INFO:Security:68a - user is Lenovo, on host DESKTOP-K51RA0N.

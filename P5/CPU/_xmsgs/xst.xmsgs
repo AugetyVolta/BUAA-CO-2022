@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\Desktop\CO\P5\CPU\mips.v" Line 81: Port <arg fmt="%s" index="1">ALUsrc</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\Desktop\CO\P5\CPU\mips.v" Line 179: Port <arg fmt="%s" index="1">RegDst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\Desktop\CO\P5\CPU\mips.v" Line 240: Port <arg fmt="%s" index="1">RegDst</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="old" >"D:\Desktop\CO\P5\CPU\mips.v" Line 285: Port <arg fmt="%s" index="1">RegDst</arg> is not connected to this instance
+</msg>
+
+<msg type="error" file="HDLCompiler" num="990" delta="old" >"D:\Desktop\CO\P5\CPU\IFU.v" Line 39: Cannot open file <arg fmt="%s" index="1">code.txt</arg>
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"D:\Desktop\CO\P5\CPU\IFU.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">IFU</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\Desktop\CO\P5\CPU\mips.v" Line 86: Assignment to <arg fmt="%s" index="1">Memwrite_D</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\Desktop\CO\P5\CPU\DM.v" Line 48: Assignment to <arg fmt="%s" index="1">WD16_23</arg> ignored, since the identifier is never used
+</msg>
+
+</messages>
+

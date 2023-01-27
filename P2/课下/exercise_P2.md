@@ -1,0 +1,9 @@
+http://cscore.buaa.edu.cn/#/problem?ProblemId=35&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=329&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=330&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=415&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=416&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=419&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=422&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=52&PieId=896 
+http://cscore.buaa.edu.cn/#/problem?ProblemId=53&PieId=896  

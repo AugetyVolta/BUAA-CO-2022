@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/ALU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Desktop/CO/P5/CPU - old/ALU.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Desktop/CO/P5/CPU - old/constant.v&apos; in file &quot;D:/Desktop/CO/P5/CPU - old/ALU.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/CMP.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/Desktop/CO/P5/CPU - old/CMP.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/Desktop/CO/P5/CPU - old/constant.v&apos; in file &quot;D:/Desktop/CO/P5/CPU - old/CMP.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/CTRL.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/DM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/DM_WB.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/EXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/EX_DM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/GRF.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/HAZARD.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/HAZARD_E.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/HAZARD_M.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/ID_EX.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/IFU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/IF_ID.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/NPC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/Desktop/CO/P5/CPU - old/mips.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

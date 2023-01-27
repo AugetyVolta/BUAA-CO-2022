@@ -1,0 +1,55 @@
+ISim log file
+Running: D:\Desktop\CO\P5\CPU\tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Desktop/CO/P5/CPU/tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $29 <= 000022fc
+                  11@00003004: $28 <= 00001800
+                  13@00003008: $31 <= 00003000
+                  21@00003118: $19 <= 00000174
+                  23@0000311c: $ 7 <= 00000000
+                  27@00003124: $31 <= 0000312c
+                  31@000032e0: $31 <= 000032e8
+                  35@000033a4: $12 <= d9a30000
+                  39@000033ac: $28 <= f59d0000
+                  41@000033b0: $10 <= 00000000
+                  43@000033b4: $13 <= 0000dc18
+                  45@000033b8: $18 <= 00000174
+                  51@000033c4: $17 <= 00000000
+                  53@000033c8: $16 <= 00000048
+                  55@000033cc: $17 <= 00000000
+                  61@000033d8: $ 2 <= 00000000
+                  63@000033dc: $30 <= 00000000
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   9@00003000: $29 <= 000022fc
+                  11@00003004: $28 <= 00001800
+                  13@00003008: $31 <= 00003000
+                  21@00003118: $19 <= 00000174
+                  23@0000311c: $ 7 <= 00000000
+                  27@00003124: $31 <= 0000312c
+                  31@000032e0: $31 <= 000032e8
+                  35@000033a4: $12 <= d9a30000
+                  39@000033ac: $28 <= f59d0000
+                  41@000033b0: $10 <= 00000000
+                  43@000033b4: $13 <= 0000dc18
+                  45@000033b8: $18 <= 00000174
+                  51@000033c4: $17 <= 00000000
+                  53@000033c8: $16 <= 00000048
+                  55@000033cc: $17 <= 00000000
+                  61@000033d8: $ 2 <= 00000000
+                  63@000033dc: $30 <= 00000000

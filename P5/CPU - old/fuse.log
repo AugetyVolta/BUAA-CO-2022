@@ -1,0 +1,53 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Desktop/CO/P5/CPU/tb_isim_beh.exe" -prj "D:/Desktop/CO/P5/CPU/tb_beh.prj" "work.tb" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/NPC.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/HAZARD_M.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/HAZARD_E.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/IF_ID.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/IFU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/ID_EX.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/HAZARD.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/GRF.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/EX_DM.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/EXT.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/DM_WB.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/DM.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/CTRL.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/CMP.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/ALU.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/mips.v" into library work
+Analyzing Verilog file "D:/Desktop/CO/P5/CPU/tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/P5/CPU/mips.v" Line 81: Port ALUsrc is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/P5/CPU/mips.v" Line 195: Port RegDst is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/P5/CPU/mips.v" Line 265: Port RegDst is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:/Desktop/CO/P5/CPU/mips.v" Line 311: Port RegDst is not connected to this instance
+Completed static elaboration
+Compiling module NPC
+Compiling module IFU
+Compiling module IF_ID
+Compiling module CTRL
+Compiling module GRF
+Compiling module CMP
+Compiling module EXT
+Compiling module ID_EX
+Compiling module ALU
+Compiling module EX_DM
+Compiling module DM
+Compiling module DM_WB
+Compiling module HAZARD_E
+Compiling module HAZARD_M
+Compiling module HAZARD
+Compiling module mips
+Compiling module tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+Compiled 18 Verilog Units
+Built simulation executable D:/Desktop/CO/P5/CPU/tb_isim_beh.exe
+Fuse Memory Usage: 33616 KB
+Fuse CPU Usage: 546 ms
